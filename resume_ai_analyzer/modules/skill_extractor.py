@@ -1,6 +1,8 @@
+import os
 def load_skills():
-
-    with open("data/skills.txt") as f:
+    path = os.path.join("data", "skills.txt")
+    
+    with open(path) as f:
         skills = f.read().splitlines()
 
     return skills
