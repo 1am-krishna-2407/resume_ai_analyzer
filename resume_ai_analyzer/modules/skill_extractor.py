@@ -1,8 +1,9 @@
 import os
 def load_skills():
-    path = os.path.join("data", "skills.txt")
+    BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    skills_path = os.path.join(BASE_DIR,"data", "skills.txt")
     
-    with open(path) as f:
+    with open(skills_path,"r") as f:
         skills = f.read().splitlines()
 
     return skills
