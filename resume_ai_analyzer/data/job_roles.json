@@ -59,18 +59,17 @@
     "Git",
     "Docker"
   ]
-"Full Stack Developer": [
+"Frontend Developer": [
     "HTML",
     "CSS",
     "JavaScript",
     "React",
-    "Node.js",
-    "Express.js",
-    "MongoDB",
-    "SQL",
-    "REST API",
+    "Next.js",
+    "Tailwind CSS",
+    "Bootstrap",
+    "Redux",
     "Git",
-    "Docker"
+    "Responsive Design"
   ]
   "Machine Learning Engineer": [
     "Python",
