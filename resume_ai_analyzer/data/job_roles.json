@@ -1,7 +1,84 @@
 {
-"Data Scientist": ["python","machine learning","pandas","numpy","tensorflow"],
-"Data Analyst": ["sql","tableau","power bi","data analysis"],
-"Computer Vision Engineer": ["python","opencv","deep learning"],
-"Frontend Developer": ["react","javascript","css","html"],
-"Backend Developer": ["nodejs","mongodb","docker"]
+"Data Scientist": [
+    "Python",
+    "Machine Learning",
+    "SQL",
+    "Statistics",
+    "TensorFlow",
+    "Pandas",
+    "NumPy",
+    "Data Visualization"
+  ]
+"Data Analyst": [
+    "Python",
+    "SQL",
+    "Excel",
+    "Tableau",
+    "Power BI",
+    "Data Cleaning",
+    "Statistics"
+  ]
+"Computer Vision Expert": [
+    "Python",
+    "OpenCV",
+    "Deep Learning",
+    "Computer Vision",
+    "PyTorch",
+    "TensorFlow",
+    "Image Processing",
+    "CNN",
+    "Object Detection",
+    "YOLO",
+    "Image Segmentation",
+    "NumPy"
+  ]
+"Backend Developer": [
+    "Node.js",
+    "Express.js",
+    "Python",
+    "Django",
+    "Flask",
+    "REST API",
+    "GraphQL",
+    "SQL",
+    "MongoDB",
+    "Authentication",
+    "Docker"
+  ],
+
+  "Full Stack Developer": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "SQL",
+    "REST API",
+    "Git",
+    "Docker"
+  ]
+"Full Stack Developer": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "SQL",
+    "REST API",
+    "Git",
+    "Docker"
+  ]
+  "Machine Learning Engineer": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "Docker",
+    "MLOps",
+    "Scikit-learn",
+    "API Development"
+  ]
 }
