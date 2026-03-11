@@ -1,4 +1,5 @@
 import json
+import os
 
 def find_skill_gap(role, skills):
     BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
