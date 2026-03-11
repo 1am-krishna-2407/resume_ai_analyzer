@@ -1,7 +1,0 @@
-{
-"Data Scientist": ["python","machine learning","pandas","numpy","tensorflow"],
-"Data Analyst": ["sql","tableau","power bi","data analysis"],
-"Computer Vision Engineer": ["python","opencv","deep learning"],
-"Frontend Developer": ["react","javascript","css","html"],
-"Backend Developer": ["nodejs","mongodb","docker"]
-}
