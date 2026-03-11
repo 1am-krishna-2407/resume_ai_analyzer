@@ -19,3 +19,16 @@ nodejs
 mongodb
 docker
 kubernetes
+data visualization 
+excel
+data cleaning
+statistics
+image processing 
+cnn
+object detection
+YOLO
+react.js
+express.js
+rest api
+git
+Image segmentation 
