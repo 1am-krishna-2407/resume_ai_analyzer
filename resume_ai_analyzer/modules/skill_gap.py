@@ -8,6 +8,8 @@ def find_skill_gap(role, skills):
         roles = json.load(f)
 
     required = roles.get(role, [])
+    skills = [s.lower() for s in skills]
+    required= [r.lower() for r in required]
 
     missing = list(set(required) - set(skills))
 
