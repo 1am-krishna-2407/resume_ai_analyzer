@@ -1,0 +1,21 @@
+python
+machine learning
+deep learning
+sql
+tensorflow
+pytorch
+pandas
+numpy
+opencv
+nlp
+computer vision
+tableau
+power bi
+react
+javascript
+css
+html
+nodejs
+mongodb
+docker
+kubernetes
