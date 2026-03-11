@@ -4,7 +4,7 @@ from modules.parser import extract_text
 from modules.skill_extractor import extract_skills
 from modules.job_classifier import predict_role
 from modules.ats_calculator import ats_score
-from modules.skill_gap import find_skill_gap
+from resume_ai_analyzer1.modules.skill_gap import find_skill_gap
 
 st.title("AI Resume Analyzer")
 
