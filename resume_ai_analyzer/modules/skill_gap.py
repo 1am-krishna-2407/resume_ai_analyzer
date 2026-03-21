@@ -5,7 +5,7 @@ def find_skill_gap(role, skills):
     file_path= os.path.join(BASE_DIR, "data", "job_roles.json")
 
     with open(file_path, "r") as f:
-    roles = json.load(f)
+        roles = json.load(f)
 
     required = roles.get(role, [])
 
