@@ -3,7 +3,7 @@
 ## Overview
 
 The **AI Resume Analyzer** is a machine learning–powered application that analyzes resumes and evaluates how well they match job requirements. The system extracts skills from a candidate’s resume, predicts the most suitable job role, calculates an **ATS (Applicant Tracking System) compatibility score**, and identifies **skill gaps** compared to job descriptions.
-Working Link: https://resumeaianalyzer-gqcg8xem4uklzn89bdzzxd.streamlit.app/
+Working Link: [https://resumeaianalyzer-2.streamlit.app/](https://resumeaianalyzer-2.streamlit.app/)
 
 This project demonstrates the practical integration of:
 
